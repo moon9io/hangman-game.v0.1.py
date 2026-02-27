@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+hangman_players.json
+daily_challenge.json
+.DS_Store
+Thumbs.db
