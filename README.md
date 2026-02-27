@@ -51,7 +51,6 @@ Play the web version now: **[Hangman Game Live](https://moon9io.github.io/hangma
 |--------------------|---------------------|------------------|
 | ![Web Dark](screenshots/web-dark.png) | ![Web Light](screenshots/web-light.png) | ![Terminal](screenshots/terminal.png) |
 
-*(You can add actual screenshots in a `screenshots/` folder.)*
 
 ---
 
