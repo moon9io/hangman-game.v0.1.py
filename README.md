@@ -13,17 +13,6 @@
 
 ## ✨ Features
 
-### 🌐 Web Version (JavaScript)
-- Fully responsive design – works on desktop, tablet, and mobile.
-- Bilingual interface (Arabic/English) with RTL/LTR switching.
-- Dark/Light theme toggle.
-- Interactive keyboard with visual feedback.
-- Timer with animated ring.
-- Hint system (costs points).
-- Achievements (10 unlockable badges).
-- Persistent storage using `localStorage`.
-- Procedurally generated sounds via Web Audio API.
-- Touch and keyboard support.
 
 ### 🖥️ Terminal Version (Python)
 - Colorful CLI interface using `colorama` and `pyfiglet`.
@@ -151,7 +140,6 @@ This project is [MIT](LICENSE) licensed.
 ## 👨‍💻 About the Developer
 
 **moon9io**  
-- 🔭 Currently working on: [my-arabicj-blog](https://github.com/moon9io/my-arabicj-blog)  
 - 🌱 Learning: Web Development, UI/UX Design  
 - 📫 How to reach me: [l3939524@gmail.com](mailto:l3939524@gmail.com)  
 - 🐦 GitHub: [@moon9io](https://github.com/moon9io)  
