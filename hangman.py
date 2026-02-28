@@ -6,6 +6,8 @@
 ║               HANGMAN — المشنوق                           ║
 ║            Word Guessing Game · v4.0                     ║
 ║                    by moon9io                            ║
+║               LYCEE  AZIZ BELAL                          ║
+║                ABD EMONIM                                ║
 ╚══════════════════════════════════════════════════════════╝
 """
 
